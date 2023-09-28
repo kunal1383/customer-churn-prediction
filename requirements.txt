@@ -1,0 +1,13 @@
+pandas
+Flask
+scikit-learn
+seaborn
+matplotlib
+mlflow
+ipykernel
+optuna
+xgboost
+notebook
+numpy
+openpyxl
+-e .
